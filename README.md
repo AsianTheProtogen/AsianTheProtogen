@@ -1,21 +1,21 @@
-asiantheprotogen@azjat ~$ ./githubInfo.sh
+azjat@azjat ~$./githubInfo.sh+
 
-whoami
-└─ 13 year old Enthusiast of 3D printing, occasional malware analyst, and a silly guy
+~$ whoami  
+└─ Enthusiast of 3D printing, occasional malware analyst, and a silly guy  
 
-skills --list
+~$ skills --list  
 ├─ Lua, Python
 └─ (Bad at) coding
 
-interests --info
-├─ Arduino
-├─ Coding
-└─ Emulation
+~$ interests --info  
+├─ Arduino  
+├─ Coding  
+└─ Emulation  
 
-current_projects --tree
-├─ Learn a new skill
-└─ Abandon Windows for good
+~$ current_projects --tree  
+├─ Learn a new skill  
+└─ Abandon Windows for good  
 
-statement --final
+~$ statement --final  
 ├─ fuck windows
 └─ embrace tux
