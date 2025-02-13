@@ -1,5 +1,4 @@
-azjat@azjat ~$./githubInfo.sh+
-
+<pre>
 ~$ whoami  
 └─ Enthusiast of 3D printing, occasional malware analyst, and a silly guy  
 
