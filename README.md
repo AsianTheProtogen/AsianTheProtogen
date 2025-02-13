@@ -1,19 +1,21 @@
-> whoami  
-└─ 13 year old Enthusiast of 3D printing, occasional malware analyst, and a silly guy  
+asiantheprotogen@azjat ~$ ./githubInfo.sh
 
-> skills --list  
+asiantheprotogen@azjat ~$ whoami
+└─ 13 year old Enthusiast of 3D printing, occasional malware analyst, and a silly guy
+
+asiantheprotogen@azjat ~$ skills --list
 ├─ Lua, Python
 └─ (Bad at) coding
 
-> interests --info  
-├─ Arduino  
-├─ Coding  
-└─ Emulation  
+asiantheprotogen@azjat ~$ interests --info
+├─ Arduino
+├─ Coding
+└─ Emulation
 
-> current_projects --tree  
-├─ Learn a new skill  
-└─ Abandon Windows for good  
+asiantheprotogen@azjat ~$ current_projects --tree
+├─ Learn a new skill
+└─ Abandon Windows for good
 
-> statement --final  
+asiantheprotogen@azjat ~$ statement --final
 ├─ fuck windows
 └─ embrace tux
